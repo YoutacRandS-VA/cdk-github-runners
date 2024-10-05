@@ -112,7 +112,7 @@
     "projen": "^0.88.0",
     "sass": "^1.54.0",
     "semver": "^7.6.3",
-    "svelte": "^3.49.0",
+    "svelte": "^4.2.19",
     "svelte-check": "^2.8.0",
     "svelte-preprocess": "^4.10.7",
     "ts-jest": "^29",
